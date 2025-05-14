@@ -1,6 +1,6 @@
-# controlgastos
+# APP de Control de Gastos Personales
 
-A new Flutter project.
+App Flutter para registrar y controlar gastos personales..
 
 ## Getting Started
 
