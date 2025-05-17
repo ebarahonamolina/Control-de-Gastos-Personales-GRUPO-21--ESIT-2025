@@ -5,6 +5,7 @@ App Flutter para registrar y controlar gastos personales...
 ## Acerca de esta app...
 
 El proyecto es el resultado de la colaboracion en el desarrollo de aplicaciones móbiles del grupo 21 del TSU de Desarrollo de software de la ESIT. APK lanzada el 11 de mayo de 2025.
+Este proyecto esta realizado con Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
