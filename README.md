@@ -1,10 +1,10 @@
-# APP de Control de Gastos Personales
+# APP de Control de Gastos Personales...
 
-App Flutter para registrar y controlar gastos personales..
+App Flutter para registrar y controlar gastos personales...
 
-## Getting Started
+## Acerca de esta app...
 
-This project is a starting point for a Flutter application.
+El proyecto es el resultado de la colaboracion en el desarrollo de aplicaciones móbiles del grupo 21 del TSU de Desarrollo de software de la ESIT. APK lanzada el 11 de mayo de 2025.
 
 A few resources to get you started if this is your first Flutter project:
 
